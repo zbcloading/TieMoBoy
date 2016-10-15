@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Core</string>
+    <string name="parameter_token_empty">缺少必要参数</string>
+    <string name="edit_username_empty">请输入手机号</string>
+    <string name="edit_password_empty">请输入密码</string>
+
+    <string name="login_error">登录失败</string>
+    <string name="query_error">查询失败，请稍候再试！</string>
+
+    <string name="request_failure">请求失败</string>
+    <string name="request_parameter_null">请求参数为空</string>
+</resources>
