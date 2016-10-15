@@ -1,8 +1,9 @@
+# ---> Android
 # Built application files
 *.apk
 *.ap_
 
-# Files for the ART/Dalvik VM
+# Files for the Dalvik VM
 *.dex
 
 # Java class files
@@ -35,6 +36,11 @@ captures/
 # Intellij
 *.iml
 .idea/workspace.xml
+*.iws
+.idea/
 
 # Keystore files
 *.jks
+
+
+
